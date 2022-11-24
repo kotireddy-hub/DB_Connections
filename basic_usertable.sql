@@ -1,4 +1,4 @@
 CREATE TABLE user(
     id INT,
-    name varchar(200),
+    name varchar(200)
 )
